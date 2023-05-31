@@ -73,7 +73,7 @@ After you're finished please remove all the comments and instructions!
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> This repository have use HTML and CSS.
+> This repository have use HTML and CSS. For code quality, Lighthouse, Webhint and Stylelint have been used.
 
 <details>
   <summary>Client</summary>
@@ -129,7 +129,12 @@ To get a local copy up and running, follow these steps. First, you need a text e
 ### Prerequisites
 
 In order to run this project, you need: a web browser and installing linters for HTML & CSS.
+
+Linters mean a collection of technologies you may need to install for the inspection of code quality: Lighthouse, Webhint and Stylelint.
+
 Download the code from the repo cloning the repo in your desired location, or download it as zip.
+
+
 
 <!--
 Example command:
@@ -143,6 +148,8 @@ Example command:
 
 Clone this repository to your desired folder: change your working directory to the desired location and clone the repository using git clone "the_project_link". Another alternative may be downloading all the code as zip.
 
+
+
 <!--
 Example commands:
 
@@ -154,7 +161,7 @@ Example commands:
 
 ### Install
 
-The project may not need further instalation. Only having Visual Studio Code may be necesary to keep with the README file step-by-step guide.
+The project may need instalation of Lighthouse, Webhint and Stylelint. The installation of these packages is up to you, or you can follow Microverse linters link to search for more info. Also having Visual Studio Code may be necesary to keep with the README file step-by-step guide.
 
 <!--
 Example command:
@@ -167,7 +174,7 @@ Example command:
 
 ### Usage
 
-To run the project, select the main file and press F5 if you are in Visual Studio Code.
+To run the project, push your changes to your cloned repository where you have installed the linters packages and look for the report that is given to you. It should be clear and sound. That is de sign that you can asl for a pull request.
 
 <!--
 Example command:
@@ -211,7 +218,7 @@ Example:
 
 👤 **Alexander Saavedra**
 
-- GitHub: [@githubhandle](https://github.com/alexansaa)
+- GitHub: [@alexansaa](https://github.com/alexansaa)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/alexander-saavedra-2803b1b6/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
